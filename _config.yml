@@ -15,8 +15,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.ein-besseres-geldspielgesetz.ch" # the base hostname & protocol for your site
 github_username:  geldspielgesetz
 
-sass:                                                                           
-  sass_dir: assets/css                                                          
+sass:
+  sass_dir: assets/css
   style: :nested
 
 # Build settings
