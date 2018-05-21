@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Mehr AHV'
-date:   2018-05-21 03:08:39 +0200
 ---
 Anbieter weltweit würden gerne hierzulande ihren Beitrag zu Spielerschutz und Soziales (AHV) leisten – wenn man sie denn nur liesse. Aufgrund von falsch gemeintem Heimatschutz erlaubt das Geldspielgesetz jedoch weder Startups noch ausländischen Anbietern legal Spiele in der Schweiz anzubieten. Damit entsteht unweigerlich ein riesiger Schwarzmarkt bei welchem die Schweiz keinerlei Abgaben erheben kann.
 

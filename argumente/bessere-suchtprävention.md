@@ -1,7 +1,6 @@
 ---
 layout: post
-title: 'Bessere Suchtprävention'
-date:   2018-05-21 03:08:39 +0200
+title: 'Bessere Prävention'
 ---
 Das Geldspielgesetz erlaubt nur Schweizern Betoncasinos online Spiele anzubieten. Startups und ausländische Anbieter bleiben aussen vor. Da Schweizer Spieler jedoch weiterhin legal bei ausländischen Casinos spielen dürfen, entsteht unweigerlich ein riesiger Schwarzmarkt auf welchem die Schweiz keinerlei Massnahmen zur Suchtprävention durchsetzen kann.
 

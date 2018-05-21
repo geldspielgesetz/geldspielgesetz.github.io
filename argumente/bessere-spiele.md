@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Bessere Spiele'
-date:   2018-05-21 03:21:00 +0200
 ---
 Mit dem Geldspielgesetz werden ausländische Anbieter ausgeschlossen. Konnten sich Schweizer Spieler sich bisher weltweit vergnügen, so sollen diese gemäss dem Willen von Bundesrat und Parlament sich neu mit dem völlig unterentwickelten und massiv viel kleineren Schweizer Angebot begnügen.
 
