@@ -11,7 +11,7 @@ email: contact@ein-besseres-geldspielgesetz.ch
 description: > # this means to ignore newlines until "baseurl:"
   Mit einem NEIN zum Geldspielgesetz gewinnen ALLE!
   Alle ausser der Geldspiellobby!
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://www.ein-besseres-geldspielgesetz.ch" # the base hostname & protocol for your site
 github_username:  geldspielgesetz
 
