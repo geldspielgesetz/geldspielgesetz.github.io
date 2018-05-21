@@ -1,0 +1,11 @@
+# Work Section
+argumente:
+- {name: 'Mehr AHV!', folder: 'mehr-ahv', file: 'argumente/mehr-ahv.html'}
+- {name: 'Bessere Spiele!', folder: 'bessere-spiele', file: 'argumente/bessere-spiele.html'}
+- {name: 'Bessere Suchtprävention!', folder: 'bessere-suchtprävention', file: 'argumente/bessere-suchtprävention.html'}
+- {name: 'Keine Netzsperren!', folder: 'keine-netzsperren', file: 'argumente/keine-netzsperren.html'}
+
+# Contact Section
+social:
+- {icon: 'github', link: '#'}
+- {icon: 'envelope', link: 'mailto:#'}

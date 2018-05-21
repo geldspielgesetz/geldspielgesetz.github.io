@@ -1,0 +1,13 @@
+<section>
+  <div class="thumb-container">
+    {% for argument in site.data.settings.argumente %}
+      <a href="{{ site.github.url }}/{{ argument.file }}">
+        <div class="thumb-unit" data-folder="{{ site.github.url }}/argumente/{{ argument.folder }}" style="background-image: url({{ site.github.url }}/assets/img/argumente/{{ argument.folder }}/thumb.jpg)">
+          <div class="thumb-overlay">
+            <strong>{{ argument.name }} <i class="fa fa-arrow-right" aria-hidden="true"></i></strong>
+          </div>
+        </div>
+      </a>
+    {% endfor %}
+  </div>
+</section>
