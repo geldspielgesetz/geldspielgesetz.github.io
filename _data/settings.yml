@@ -7,5 +7,5 @@ argumente:
 
 # Contact Section
 social:
-- {icon: 'github', link: '#'}
-- {icon: 'envelope', link: 'mailto:#'}
+- {icon: 'github', link: 'https://github.com/geldspielgesetz'}
+- {icon: 'envelope', link: 'mailto:contact@ein-besseres-geldspielgesetz.ch'}
