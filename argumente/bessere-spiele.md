@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'Bessere Spiele'
+title: 'Hochstehendes Angebot'
 ---
-Mit dem Geldspielgesetz werden ausländische Anbieter ausgeschlossen. Konnten sich Schweizer Spieler sich bisher weltweit vergnügen, so sollen diese gemäss dem Willen von Bundesrat und Parlament sich neu mit dem völlig unterentwickelten und massiv viel kleineren Schweizer Angebot begnügen.
+Mit dem Geldspielgesetz werden ausländische Anbieter ausgeschlossen. Konnten sich Schweizer Spieler bisher weltweit vergnügen, so sollen diese gemäss dem Willen von Bundesrat und Parlament sich neu mit dem völlig unterentwickelten und massiv viel kleineren Schweizer Angebot begnügen.
 
 Wie es dazu kommen konnte lässt sich unter anderem bei der [Aargauer Zeitung][1] oder [Watson][2] nachlesen.
 
