@@ -2,7 +2,7 @@
 layout: post
 title: 'Bessere Prävention'
 ---
-Das Geldspielgesetz erlaubt nur Schweizern Betoncasinos online Spiele anzubieten. Startups und ausländische Anbieter bleiben aussen vor. Da Schweizer Spieler jedoch weiterhin legal bei ausländischen Casinos spielen dürfen, entsteht unweigerlich ein riesiger Schwarzmarkt auf welchem die Schweiz keinerlei Massnahmen zur Suchtprävention durchsetzen kann.
+Das Geldspielgesetz erlaubt nur Schweizern Betoncasinos online Spiele anzubieten. Startups und ausländische Anbieter bleiben aussen vor und haben keine Möglichkeit, ihre Dienste legal in der Schweiz anzubieten. Dies provoziert einen Schwarzmarkt, auf welchem die Schweiz keinerlei Massnahmen zur Suchtprävention durchsetzen kann.
 
 Dass ausländische Anbieter sind durchaus gewillt, sich an lokale Gesetze zu halten und den Spielerschutz mitzutragen zeigt [ein Artikel in der Baslerzeitung von 2017 (!)][1] sowie der [SRF Eco Beitrag vom 26. März 2018][2].
 
