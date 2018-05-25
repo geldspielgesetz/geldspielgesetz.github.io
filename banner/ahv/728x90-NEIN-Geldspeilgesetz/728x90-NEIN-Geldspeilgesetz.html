@@ -177,11 +177,9 @@
     }
     .gwd-img-1gj3 {
       position: absolute;
-      left: 511px;
-      top: 26px;
-      width: 145px;
-      transform: translate3d(100px, 0px, 0px);
-      opacity: 0;
+      left: 0px;
+      top: 0px;
+      width: 100%;
     }
     .gwd-div-18vy {
       transform: translate3d(0px, 0px, 0px);
@@ -354,6 +352,14 @@
       animation: gwd-gen-1it1gwdanimation_gwd-keyframes 0.6s linear 5.8s 1 normal forwards;
     }
     .gwd-div-kcn4 {}
+    .gwd-div-2ftk {
+      position: absolute;
+      left: 511px;
+      width: 145px;
+      height: 41px;
+      top: 22px;
+      opacity: 0;
+    }
   </style>
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700" rel="stylesheet" type="text/css">
   <script data-source="googbase_min.js" data-version="4" data-exports-type="googbase" src="googbase_min.js"></script>
@@ -415,6 +421,10 @@
       // GWD Predefined Function
       gwd.actions.timeline.gotoAndPlayNTimes('BG-1-TEXT-WRAPPER', 'START', 2, 'event-1');
     };
+    gwd.auto_Page1Event_15 = function(event) {
+      // GWD Predefined Function
+      gwd.actions.timeline.gotoAndPlayNTimes('SLIDE-3-GROUP', 'START', 2, 'event-1');
+    };
   </script>
   <script type="text/javascript" gwd-events="registration">
     // Support code for event handling in Google Web Designer
@@ -426,6 +436,7 @@
       gwd.actions.events.addHandler('page1', 'event-1', gwd.auto_Page1Event_12, false);
       gwd.actions.events.addHandler('page1', 'event-1', gwd.auto_Page1Event_13, false);
       gwd.actions.events.addHandler('page1', 'event-1', gwd.auto_Page1Event_14, false);
+      gwd.actions.events.addHandler('page1', 'event-1', gwd.auto_Page1Event_15, false);
       gwd.actions.timeline.captureAnimationEnd(document.body);
     };
     gwd.actions.events.deregisterEventHandlers = function(event) {
@@ -435,6 +446,7 @@
       gwd.actions.events.removeHandler('page1', 'event-1', gwd.auto_Page1Event_12, false);
       gwd.actions.events.removeHandler('page1', 'event-1', gwd.auto_Page1Event_13, false);
       gwd.actions.events.removeHandler('page1', 'event-1', gwd.auto_Page1Event_14, false);
+      gwd.actions.events.removeHandler('page1', 'event-1', gwd.auto_Page1Event_15, false);
       gwd.actions.timeline.releaseAnimationEnd(document.body);
     };
     document.addEventListener("DOMContentLoaded", gwd.actions.events.registerEventHandlers);
@@ -455,10 +467,12 @@
     <div is="gwd-pagedeck" class="gwd-page-container" id="pagedeck">
       <div is="gwd-page" id="page1" class="transition-opacity gwd-page-wrapper gwd-page-size gwd-lightbox gwd-div-1irj" data-gwd-width="728" data-gwd-height="90" data-gwd-name="" data-gwd-animation-labels="START,0">
         <div class="gwd-page-content gwd-page-size gwd-div-koga">
-          <div class="gwd-div-h3ft gwd-div-1275" id="SLIDE-3-GROUP" data-gwd-animation-labels="START,0" data-gwd-tl-hidden="">
+          <div class="gwd-div-h3ft gwd-div-1275" id="SLIDE-3-GROUP" data-gwd-animation-labels="START,0">
             <div class="gwd-div-1ogm gwd-div-162t" id="BG-3"></div>
-            <p class="gwd-p-15zt gwd-p-hmh4 gwd-gen-ydmjgwdanimation" id="BG-3-TEXT">Alle ausser die Geldspiellobby</p>
-            <img is="gwd-image" source="assets/button.png" id="BUTTON" class="gwd-img-1gj3 gwd-gen-1it1gwdanimation">
+            <p class="gwd-p-15zt gwd-p-hmh4 gwd-gen-ydmjgwdanimation" id="BG-3-TEXT">Alle ausser der Geldspiellobby</p>
+            <div class="gwd-div-2ftk gwd-gen-1it1gwdanimation" id="BUTTON-WRAP" data-gwd-animation-labels="START,0">
+              <img is="gwd-image" source="assets/button.png" id="BUTTON" class="gwd-img-1gj3 ">
+            </div>
           </div>
           <div class="gwd-div-h3ft gwd-div-1bv1 gwd-gen-1b43gwdanimation" id="SLIDE-2-GROUP" data-gwd-animation-labels="START,0">
             <div class="gwd-div-1ogm gwd-div-fhrk" id="BG-2"></div>
